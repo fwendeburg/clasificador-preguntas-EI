@@ -1,51 +1,51 @@
-pregunta, clase
-¿Cuál es la edad de tu abuela?, NumericoEdad
-¿Qué edad tiene tu mejor amigo?, NumericoEdad
-¿Cuántos años tiene tu profesor de matemáticas?, NumericoEdad
-¿Hace cuánto tiempo te graduaste de la universidad?, NumericoEdad
-¿Cuál es la edad de tu hermana menor?, NumericoEdad
-¿Qué edad tiene tu cantante favorito?, NumericoEdad
-¿Cuántos años tiene tu jefe?, NumericoEdad
-¿Hace cuánto tiempo empezaste a aprender a tocar un instrumento?, NumericoEdad
-¿Cuál es la edad de tu sobrino?, NumericoEdad
-¿Qué edad tiene tu vecino de al lado?, NumericoEdad
-¿Cuántos años tiene el presidente de tu país?, NumericoEdad
-¿Hace cuánto tiempo viajaste por última vez?, NumericoEdad
-¿Cuál es la edad de tu hijo mayor?, NumericoEdad
-¿Qué edad tiene tu médico de cabecera?, NumericoEdad
-¿Cuántos años tiene el fundador de tu empresa?, NumericoEdad
-¿Hace cuánto tiempo comenzaste a trabajar en tu empleo actual?, NumericoEdad
-¿Cuál es la edad de tu actor favorito?, NumericoEdad
-¿Qué edad tiene tu pareja?, NumericoEdad
-¿Cuántos años tiene tu entrenador personal?, NumericoEdad
-¿Hace cuánto tiempo te mudaste a tu hogar actual?, NumericoEdad
-¿Cuál es la edad de tu primo más cercano?, NumericoEdad
-¿Qué edad tiene tu escritor favorito?, NumericoEdad
-¿Cuántos años tiene tu vecino del piso de arriba?, NumericoEdad
-¿Hace cuánto tiempo te inscribiste en el gimnasio?, NumericoEdad
-¿Cuál es la edad de tu mejor amiga?, NumericoEdad
-¿Cuál es la edad de tu padre?, NumericoEdad
-¿Qué edad tiene tu jugador de fútbol favorito?, NumericoEdad
-¿Cuántos años tiene tu compañero de trabajo más joven?, NumericoEdad
-¿Hace cuánto tiempo aprendiste a conducir?, NumericoEdad
-¿Cuál es la edad de tu abuelo materno?, NumericoEdad
-¿Qué edad tiene tu artista de rap preferido?, NumericoEdad
-¿Cuántos años tiene tu profesor de educación física?, NumericoEdad
-¿Hace cuánto tiempo compraste tu primer auto?, NumericoEdad
-¿Cuál es la edad de tu prima mayor?, NumericoEdad
-¿Qué edad tiene tu escritor clásico favorito?, NumericoEdad
-¿Cuántos años tiene el dueño de la empresa en la que trabajas?, NumericoEdad
-¿Hace cuánto tiempo fuiste de campamento por última vez?, NumericoEdad
-¿Cuál es la edad de tu tío menor?, NumericoEdad
-¿Qué edad tiene tu actor de cine preferido?, NumericoEdad
-¿Cuántos años tiene tu vecina de enfrente?, NumericoEdad
-¿Hace cuánto tiempo te interesaste por la moda?, NumericoEdad
-¿Cuál es la edad de tu mejor amigo de la infancia?, NumericoEdad
-¿Qué edad tiene tu guitarrista favorito?, NumericoEdad
-¿Cuántos años tiene tu jefe directo?, NumericoEdad
-¿Hace cuánto tiempo hiciste tu última reparación en el hogar?, NumericoEdad
-¿Cuál es la edad de tu sobrina menor?, NumericoEdad
-¿Qué edad tiene tu novelista favorito?, NumericoEdad
-¿Cuántos años tiene tu vecino de la derecha?, NumericoEdad
-¿Hace cuánto tiempo comenzaste a cocinar por ti mismo?, NumericoEdad
-¿Cuál es la edad de tu hijo menor?, NumericoEdad
+pregunta,clase
+¿Cuál es la edad de tu abuela?,NumericoEdad
+¿Qué edad tiene tu mejor amigo?,NumericoEdad
+¿Cuántos años tiene tu profesor de matemáticas?,NumericoEdad
+¿Hace cuánto tiempo te graduaste de la universidad?,NumericoEdad
+¿Cuál es la edad de tu hermana menor?,NumericoEdad
+¿Qué edad tiene tu cantante favorito?,NumericoEdad
+¿Cuántos años tiene tu jefe?,NumericoEdad
+¿Hace cuánto tiempo empezaste a aprender a tocar un instrumento?,NumericoEdad
+¿Cuál es la edad de tu sobrino?,NumericoEdad
+¿Qué edad tiene tu vecino de al lado?,NumericoEdad
+¿Cuántos años tiene el presidente de tu país?,NumericoEdad
+¿Hace cuánto tiempo viajaste por última vez?,NumericoEdad
+¿Cuál es la edad de tu hijo mayor?,NumericoEdad
+¿Qué edad tiene tu médico de cabecera?,NumericoEdad
+¿Cuántos años tiene el fundador de tu empresa?,NumericoEdad
+¿Hace cuánto tiempo comenzaste a trabajar en tu empleo actual?,NumericoEdad
+¿Cuál es la edad de tu actor favorito?,NumericoEdad
+¿Qué edad tiene tu pareja?,NumericoEdad
+¿Cuántos años tiene tu entrenador personal?,NumericoEdad
+¿Hace cuánto tiempo te mudaste a tu hogar actual?,NumericoEdad
+¿Cuál es la edad de tu primo más cercano?,NumericoEdad
+¿Qué edad tiene tu escritor favorito?,NumericoEdad
+¿Cuántos años tiene tu vecino del piso de arriba?,NumericoEdad
+¿Hace cuánto tiempo te inscribiste en el gimnasio?,NumericoEdad
+¿Cuál es la edad de tu mejor amiga?,NumericoEdad
+¿Cuál es la edad de tu padre?,NumericoEdad
+¿Qué edad tiene tu jugador de fútbol favorito?,NumericoEdad
+¿Cuántos años tiene tu compañero de trabajo más joven?,NumericoEdad
+¿Hace cuánto tiempo aprendiste a conducir?,NumericoEdad
+¿Cuál es la edad de tu abuelo materno?,NumericoEdad
+¿Qué edad tiene tu artista de rap preferido?,NumericoEdad
+¿Cuántos años tiene tu profesor de educación física?,NumericoEdad
+¿Hace cuánto tiempo compraste tu primer auto?,NumericoEdad
+¿Cuál es la edad de tu prima mayor?,NumericoEdad
+¿Qué edad tiene tu escritor clásico favorito?,NumericoEdad
+¿Cuántos años tiene el dueño de la empresa en la que trabajas?,NumericoEdad
+¿Hace cuánto tiempo fuiste de campamento por última vez?,NumericoEdad
+¿Cuál es la edad de tu tío menor?,NumericoEdad
+¿Qué edad tiene tu actor de cine preferido?,NumericoEdad
+¿Cuántos años tiene tu vecina de enfrente?,NumericoEdad
+¿Hace cuánto tiempo te interesaste por la moda?,NumericoEdad
+¿Cuál es la edad de tu mejor amigo de la infancia?,NumericoEdad
+¿Qué edad tiene tu guitarrista favorito?,NumericoEdad
+¿Cuántos años tiene tu jefe directo?,NumericoEdad
+¿Hace cuánto tiempo hiciste tu última reparación en el hogar?,NumericoEdad
+¿Cuál es la edad de tu sobrina menor?,NumericoEdad
+¿Qué edad tiene tu novelista favorito?,NumericoEdad
+¿Cuántos años tiene tu vecino de la derecha?,NumericoEdad
+¿Hace cuánto tiempo comenzaste a cocinar por ti mismo?,NumericoEdad
+¿Cuál es la edad de tu hijo menor?,NumericoEdad

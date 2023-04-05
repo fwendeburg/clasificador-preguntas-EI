@@ -1,61 +1,61 @@
-pregunta, clase
-¿En qué porcentaje aumentó la población de la ciudad en el último año?, NumericoPorcentaje
-¿Qué porcentaje de los estudiantes universitarios tienen trabajos de medio tiempo?, NumericoPorcentaje
-¿Cuál es el porcentaje de empresas que implementan políticas de teletrabajo?, NumericoPorcentaje
-¿Cuánto aumentó el precio del petróleo en los últimos cinco años?, NumericoPorcentaje
-¿En qué porcentaje aumentó el número de usuarios de redes sociales durante la pandemia?, NumericoPorcentaje
-¿Qué porcentaje de personas en el mundo tienen acceso a internet?, NumericoPorcentaje
-¿Cuál es el porcentaje de empleados que están satisfechos con su trabajo actual?, NumericoPorcentaje
-¿Cuánto disminuyó la tasa de desempleo en el último trimestre?, NumericoPorcentaje
-¿En qué porcentaje aumentó la venta de coches eléctricos el año pasado?, NumericoPorcentaje
-¿Qué porcentaje de la población mundial vive en la pobreza?, NumericoPorcentaje
-¿Cuál es el porcentaje de personas que han recibido la vacuna contra la COVID-19?, NumericoPorcentaje
-¿Cuánto aumentó el nivel del mar en los últimos 50 años?, NumericoPorcentaje
-¿En qué porcentaje disminuyó la contaminación del aire durante la pandemia?, NumericoPorcentaje
-¿Qué porcentaje de los estudiantes de secundaria tienen acceso a una computadora en casa?, NumericoPorcentaje
-¿Cuál es el porcentaje de personas que creen en el cambio climático?, NumericoPorcentaje
-¿Cuánto aumentó la producción de energía solar en el último año?, NumericoPorcentaje
-¿En qué porcentaje aumentó el gasto en publicidad digital en los últimos años?, NumericoPorcentaje
-¿Qué porcentaje de los pacientes con cáncer sobrevive la enfermedad?, NumericoPorcentaje
-¿Cuál es el porcentaje de mujeres en puestos directivos en las empresas?, NumericoPorcentaje
-¿Cuánto disminuyó la tasa de criminalidad en la ciudad en el último año?, NumericoPorcentaje
-¿En qué porcentaje aumentó el uso de bicicletas como medio de transporte en la ciudad?, NumericoPorcentaje
-¿Qué porcentaje de la población mundial es vegetariana o vegana?, NumericoPorcentaje
-¿Cuál es el porcentaje de personas que sufren de ansiedad o depresión?, NumericoPorcentaje
-¿Cuánto aumentó el número de turistas que visitan el país en el último año?, NumericoPorcentaje
-¿En qué porcentaje disminuyó la emisión de gases de efecto invernadero en el último año?, NumericoPorcentaje
-¿Qué porcentaje de las personas que buscan trabajo lo consiguen en menos de un mes?, NumericoPorcentaje
-¿Cuál es el porcentaje de hogares que cuentan con sistemas de energía renovable?, NumericoPorcentaje
-¿Cuánto aumentó el precio de la vivienda en el último año?, NumericoPorcentaje
-¿En qué porcentaje aumentó el número de personas que practican deportes extremos?, NumericoPorcentaje
-¿Qué porcentaje de los trabajadores tienen acceso a planes de jubilación?, NumericoPorcentaje
-¿Cuál es el porcentaje de la población mundial que habla más de un idioma?, NumericoPorcentaje
-¿Cuánto disminuyó la tasa de mortalidad infantil en los últimos años?, NumericoPorcentaje
-¿En qué porcentaje aumentó la demanda de alimentos orgánicos en los últimos años?, NumericoPorcentaje
-¿Qué porcentaje de los estudiantes universitarios tienen préstamos estudiantiles?, NumericoPorcentaje
-¿Cuál es el porcentaje de empresas que han implementado políticas de igualdad de género en el lugar de trabajo?, NumericoPorcentaje
-¿En qué porcentaje aumentó el uso de redes sociales para hacer negocios?, NumericoPorcentaje
-¿Qué porcentaje de la población mundial vive en ciudades?, NumericoPorcentaje
-¿Cuál es el porcentaje de trabajadores que reportan acoso laboral en su lugar de trabajo?, NumericoPorcentaje
-¿Cuánto aumentó el número de solicitudes de asilo en el último año?, NumericoPorcentaje
-¿En qué porcentaje disminuyó la producción de petróleo en el último año?, NumericoPorcentaje
-¿Qué porcentaje de los adultos en el mundo tienen sobrepeso u obesidad?, NumericoPorcentaje
-¿Cuál es el porcentaje de personas que utilizan sus teléfonos móviles en la cama antes de dormir?, NumericoPorcentaje
-¿Cuánto aumentó el gasto en tecnología en el último año?, NumericoPorcentaje
-¿En qué porcentaje disminuyó la tasa de mortalidad por accidentes de tráfico en los últimos años?, NumericoPorcentaje
-¿Qué porcentaje de las empresas implementan políticas de responsabilidad social?, NumericoPorcentaje
-¿Cuál es el porcentaje de personas que han experimentado discriminación en el lugar de trabajo?, NumericoPorcentaje
-¿Cuánto aumentó la producción de energía eólica en el último año?, NumericoPorcentaje
-¿En qué porcentaje aumentó el uso de aplicaciones de citas en el último año?, NumericoPorcentaje
-¿Qué porcentaje de la población mundial tiene acceso a agua potable?, NumericoPorcentaje
-¿Cuál es el porcentaje de empresas que han sufrido un ciberataque en el último año?, NumericoPorcentaje
-¿Cuánto disminuyó la tasa de natalidad en los últimos años?, NumericoPorcentaje
-¿En qué porcentaje aumentó el número de personas que trabajan desde casa en el último año?, NumericoPorcentaje
-¿Qué porcentaje de los estudiantes de secundaria reportan haber sido víctimas de acoso escolar?, NumericoPorcentaje
-¿Cuál es el porcentaje de personas que utilizan terapias alternativas para tratar enfermedades?, NumericoPorcentaje
-¿Cuánto aumentó la producción de energía hidroeléctrica en el último año?, NumericoPorcentaje
-¿En qué porcentaje aumentó el número de personas que han decidido no tener hijos?, NumericoPorcentaje
-¿Qué porcentaje de los empleados en el mundo tienen acceso a licencia por paternidad?, NumericoPorcentaje
-¿Cuál es el porcentaje de personas que utilizan servicios de streaming de video?, NumericoPorcentaje
-¿Cuánto disminuyó el consumo de tabaco en los últimos años?, NumericoPorcentaje
-¿En qué porcentaje aumentó el número de personas que utilizan bicicletas eléctricas como medio de transporte en la ciudad?, NumericoPorcentaje
+pregunta,clase
+¿En qué porcentaje aumentó la población de la ciudad en el último año?,NumericoPorcentaje
+¿Qué porcentaje de los estudiantes universitarios tienen trabajos de medio tiempo?,NumericoPorcentaje
+¿Cuál es el porcentaje de empresas que implementan políticas de teletrabajo?,NumericoPorcentaje
+¿Cuánto aumentó el precio del petróleo en los últimos cinco años?,NumericoPorcentaje
+¿En qué porcentaje aumentó el número de usuarios de redes sociales durante la pandemia?,NumericoPorcentaje
+¿Qué porcentaje de personas en el mundo tienen acceso a internet?,NumericoPorcentaje
+¿Cuál es el porcentaje de empleados que están satisfechos con su trabajo actual?,NumericoPorcentaje
+¿Cuánto disminuyó la tasa de desempleo en el último trimestre?,NumericoPorcentaje
+¿En qué porcentaje aumentó la venta de coches eléctricos el año pasado?,NumericoPorcentaje
+¿Qué porcentaje de la población mundial vive en la pobreza?,NumericoPorcentaje
+¿Cuál es el porcentaje de personas que han recibido la vacuna contra la COVID-19?,NumericoPorcentaje
+¿Cuánto aumentó el nivel del mar en los últimos 50 años?,NumericoPorcentaje
+¿En qué porcentaje disminuyó la contaminación del aire durante la pandemia?,NumericoPorcentaje
+¿Qué porcentaje de los estudiantes de secundaria tienen acceso a una computadora en casa?,NumericoPorcentaje
+¿Cuál es el porcentaje de personas que creen en el cambio climático?,NumericoPorcentaje
+¿Cuánto aumentó la producción de energía solar en el último año?,NumericoPorcentaje
+¿En qué porcentaje aumentó el gasto en publicidad digital en los últimos años?,NumericoPorcentaje
+¿Qué porcentaje de los pacientes con cáncer sobrevive la enfermedad?,NumericoPorcentaje
+¿Cuál es el porcentaje de mujeres en puestos directivos en las empresas?,NumericoPorcentaje
+¿Cuánto disminuyó la tasa de criminalidad en la ciudad en el último año?,NumericoPorcentaje
+¿En qué porcentaje aumentó el uso de bicicletas como medio de transporte en la ciudad?,NumericoPorcentaje
+¿Qué porcentaje de la población mundial es vegetariana o vegana?,NumericoPorcentaje
+¿Cuál es el porcentaje de personas que sufren de ansiedad o depresión?,NumericoPorcentaje
+¿Cuánto aumentó el número de turistas que visitan el país en el último año?,NumericoPorcentaje
+¿En qué porcentaje disminuyó la emisión de gases de efecto invernadero en el último año?,NumericoPorcentaje
+¿Qué porcentaje de las personas que buscan trabajo lo consiguen en menos de un mes?,NumericoPorcentaje
+¿Cuál es el porcentaje de hogares que cuentan con sistemas de energía renovable?,NumericoPorcentaje
+¿Cuánto aumentó el precio de la vivienda en el último año?,NumericoPorcentaje
+¿En qué porcentaje aumentó el número de personas que practican deportes extremos?,NumericoPorcentaje
+¿Qué porcentaje de los trabajadores tienen acceso a planes de jubilación?,NumericoPorcentaje
+¿Cuál es el porcentaje de la población mundial que habla más de un idioma?,NumericoPorcentaje
+¿Cuánto disminuyó la tasa de mortalidad infantil en los últimos años?,NumericoPorcentaje
+¿En qué porcentaje aumentó la demanda de alimentos orgánicos en los últimos años?,NumericoPorcentaje
+¿Qué porcentaje de los estudiantes universitarios tienen préstamos estudiantiles?,NumericoPorcentaje
+¿Cuál es el porcentaje de empresas que han implementado políticas de igualdad de género en el lugar de trabajo?,NumericoPorcentaje
+¿En qué porcentaje aumentó el uso de redes sociales para hacer negocios?,NumericoPorcentaje
+¿Qué porcentaje de la población mundial vive en ciudades?,NumericoPorcentaje
+¿Cuál es el porcentaje de trabajadores que reportan acoso laboral en su lugar de trabajo?,NumericoPorcentaje
+¿Cuánto aumentó el número de solicitudes de asilo en el último año?,NumericoPorcentaje
+¿En qué porcentaje disminuyó la producción de petróleo en el último año?,NumericoPorcentaje
+¿Qué porcentaje de los adultos en el mundo tienen sobrepeso u obesidad?,NumericoPorcentaje
+¿Cuál es el porcentaje de personas que utilizan sus teléfonos móviles en la cama antes de dormir?,NumericoPorcentaje
+¿Cuánto aumentó el gasto en tecnología en el último año?,NumericoPorcentaje
+¿En qué porcentaje disminuyó la tasa de mortalidad por accidentes de tráfico en los últimos años?,NumericoPorcentaje
+¿Qué porcentaje de las empresas implementan políticas de responsabilidad social?,NumericoPorcentaje
+¿Cuál es el porcentaje de personas que han experimentado discriminación en el lugar de trabajo?,NumericoPorcentaje
+¿Cuánto aumentó la producción de energía eólica en el último año?,NumericoPorcentaje
+¿En qué porcentaje aumentó el uso de aplicaciones de citas en el último año?,NumericoPorcentaje
+¿Qué porcentaje de la población mundial tiene acceso a agua potable?,NumericoPorcentaje
+¿Cuál es el porcentaje de empresas que han sufrido un ciberataque en el último año?,NumericoPorcentaje
+¿Cuánto disminuyó la tasa de natalidad en los últimos años?,NumericoPorcentaje
+¿En qué porcentaje aumentó el número de personas que trabajan desde casa en el último año?,NumericoPorcentaje
+¿Qué porcentaje de los estudiantes de secundaria reportan haber sido víctimas de acoso escolar?,NumericoPorcentaje
+¿Cuál es el porcentaje de personas que utilizan terapias alternativas para tratar enfermedades?,NumericoPorcentaje
+¿Cuánto aumentó la producción de energía hidroeléctrica en el último año?,NumericoPorcentaje
+¿En qué porcentaje aumentó el número de personas que han decidido no tener hijos?,NumericoPorcentaje
+¿Qué porcentaje de los empleados en el mundo tienen acceso a licencia por paternidad?,NumericoPorcentaje
+¿Cuál es el porcentaje de personas que utilizan servicios de streaming de video?,NumericoPorcentaje
+¿Cuánto disminuyó el consumo de tabaco en los últimos años?,NumericoPorcentaje
+¿En qué porcentaje aumentó el número de personas que utilizan bicicletas eléctricas como medio de transporte en la ciudad?,NumericoPorcentaje

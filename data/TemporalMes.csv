@@ -1,51 +1,51 @@
-pregunta, clase
-¿Cuál es el mes de la Navidad?, TemporalMes
-¿En qué mes se celebra el Día de la Independencia en tu país?, TemporalMes
-¿Cuál es el mes en que empieza la primavera en el hemisferio norte?, TemporalMes
-¿Qué mes marca el inicio del año escolar en tu país?, TemporalMes
-¿En qué mes se celebra el Día Internacional de la Mujer?, TemporalMes
-¿Cuál es el mes de la celebración del Día de Acción de Gracias en Estados Unidos?, TemporalMes
-¿Qué mes es conocido como el mes del amor y la amistad en algunos países de América Latina?, TemporalMes
-¿En qué mes se celebra el Carnaval en Brasil?, TemporalMes
-¿Cuál es el mes en que se celebra el Día del Padre en tu país?, TemporalMes
-¿Qué mes es el más caluroso del año en tu región?, TemporalMes
-¿En qué mes se celebra la fiesta de San Juan en España?, TemporalMes
-¿Cuál es el mes de la celebración del Año Nuevo chino?, TemporalMes
-¿Qué mes es conocido como el Mes del Orgullo en el movimiento LGBT?, TemporalMes
-¿En qué mes se celebra el Día de los Muertos en México?, TemporalMes
-¿Cuál es el mes en que se celebra el Día de la Tierra?, TemporalMes
-¿Qué mes marca el inicio del otoño en el hemisferio sur?, TemporalMes
-¿En qué mes se celebra el Día del Trabajo en muchos países del mundo?, TemporalMes
-¿Cuál es el mes de la celebración del Día de San Valentín?, TemporalMes
-¿Qué mes es el más lluvioso del año en tu región?, TemporalMes
-¿En qué mes se celebra el Día de la Madre en tu país?, TemporalMes
-¿Cuál es el mes de la celebración del Oktoberfest en Alemania?, TemporalMes
-¿Qué mes marca el inicio del invierno en el hemisferio norte?, TemporalMes
-¿En qué mes se celebra la Semana Santa en muchos países del mundo?, TemporalMes
-¿Cuál es el mes en que se celebra el Día de la Independencia en México?, TemporalMes
-¿Qué mes es conocido como el mes de concientización sobre el cáncer de mama?, TemporalMes
-¿Cuál es el mes de la celebración del Día de Todos los Santos?, TemporalMes
-¿En qué mes se celebra el Día de San Patricio en Irlanda?, TemporalMes
-¿Cuál es el mes en que se celebra la Nochevieja en muchos países del mundo?, TemporalMes
-¿Qué mes marca el inicio del verano en el hemisferio norte?, TemporalMes
-¿En qué mes se celebra el Día Internacional de la Juventud?, TemporalMes
-¿Cuál es el mes de la celebración del Día de la Bandera en tu país?, TemporalMes
-¿Qué mes es conocido como el Mes de la Historia Negra en Estados Unidos?, TemporalMes
-¿En qué mes se celebra el Día de los Reyes Magos en algunos países de América Latina?, TemporalMes
-¿Cuál es el mes de la celebración del Día del Niño en tu país?, TemporalMes
-¿Qué mes es el más frío del año en tu región?, TemporalMes
-¿En qué mes se celebra el Día de los Santos Inocentes en España y algunos países de América Latina?, TemporalMes
-¿Cuál es el mes de la celebración del Día de la Madre en muchos países del mundo?, TemporalMes
-¿Qué mes marca el inicio de la temporada de huracanes en el Atlántico?, TemporalMes
-¿En qué mes se celebra el Día Internacional de la Paz?, TemporalMes
-¿Cuál es el mes de la celebración del Día del Trabajador en Rusia?, TemporalMes
-¿Qué mes es conocido como el Mes de Sensibilización sobre el Autismo?, TemporalMes
-¿En qué mes se celebra el Día del Amor y la Amistad en Colombia?, TemporalMes
-¿Cuál es el mes de la celebración del Día de la Tierra en algunos países de América Latina?, TemporalMes
-¿Qué mes marca el inicio del año nuevo en el calendario islámico?, TemporalMes
-¿En qué mes se celebra el Día de San Jorge en Inglaterra?, TemporalMes
-¿Cuál es el mes de la celebración del Día de la Mujer Indígena en muchos países de América Latina?, TemporalMes
-¿Qué mes es conocido como el Mes de la Concientización sobre el Cáncer de Próstata?, TemporalMes
-¿En qué mes se celebra el Día de la Bandera Nacional en México?, TemporalMes
-¿Cuál es el mes de la celebración del Día de los Enamorados en Brasil?, TemporalMes
-¿Qué mes marca el inicio de la temporada de esquí en los Alpes?, TemporalMes
+pregunta,clase
+¿Cuál es el mes de la Navidad?,TemporalMes
+¿En qué mes se celebra el Día de la Independencia en tu país?,TemporalMes
+¿Cuál es el mes en que empieza la primavera en el hemisferio norte?,TemporalMes
+¿Qué mes marca el inicio del año escolar en tu país?,TemporalMes
+¿En qué mes se celebra el Día Internacional de la Mujer?,TemporalMes
+¿Cuál es el mes de la celebración del Día de Acción de Gracias en Estados Unidos?,TemporalMes
+¿Qué mes es conocido como el mes del amor y la amistad en algunos países de América Latina?,TemporalMes
+¿En qué mes se celebra el Carnaval en Brasil?,TemporalMes
+¿Cuál es el mes en que se celebra el Día del Padre en tu país?,TemporalMes
+¿Qué mes es el más caluroso del año en tu región?,TemporalMes
+¿En qué mes se celebra la fiesta de San Juan en España?,TemporalMes
+¿Cuál es el mes de la celebración del Año Nuevo chino?,TemporalMes
+¿Qué mes es conocido como el Mes del Orgullo en el movimiento LGBT?,TemporalMes
+¿En qué mes se celebra el Día de los Muertos en México?,TemporalMes
+¿Cuál es el mes en que se celebra el Día de la Tierra?,TemporalMes
+¿Qué mes marca el inicio del otoño en el hemisferio sur?,TemporalMes
+¿En qué mes se celebra el Día del Trabajo en muchos países del mundo?,TemporalMes
+¿Cuál es el mes de la celebración del Día de San Valentín?,TemporalMes
+¿Qué mes es el más lluvioso del año en tu región?,TemporalMes
+¿En qué mes se celebra el Día de la Madre en tu país?,TemporalMes
+¿Cuál es el mes de la celebración del Oktoberfest en Alemania?,TemporalMes
+¿Qué mes marca el inicio del invierno en el hemisferio norte?,TemporalMes
+¿En qué mes se celebra la Semana Santa en muchos países del mundo?,TemporalMes
+¿Cuál es el mes en que se celebra el Día de la Independencia en México?,TemporalMes
+¿Qué mes es conocido como el mes de concientización sobre el cáncer de mama?,TemporalMes
+¿Cuál es el mes de la celebración del Día de Todos los Santos?,TemporalMes
+¿En qué mes se celebra el Día de San Patricio en Irlanda?,TemporalMes
+¿Cuál es el mes en que se celebra la Nochevieja en muchos países del mundo?,TemporalMes
+¿Qué mes marca el inicio del verano en el hemisferio norte?,TemporalMes
+¿En qué mes se celebra el Día Internacional de la Juventud?,TemporalMes
+¿Cuál es el mes de la celebración del Día de la Bandera en tu país?,TemporalMes
+¿Qué mes es conocido como el Mes de la Historia Negra en Estados Unidos?,TemporalMes
+¿En qué mes se celebra el Día de los Reyes Magos en algunos países de América Latina?,TemporalMes
+¿Cuál es el mes de la celebración del Día del Niño en tu país?,TemporalMes
+¿Qué mes es el más frío del año en tu región?,TemporalMes
+¿En qué mes se celebra el Día de los Santos Inocentes en España y algunos países de América Latina?,TemporalMes
+¿Cuál es el mes de la celebración del Día de la Madre en muchos países del mundo?,TemporalMes
+¿Qué mes marca el inicio de la temporada de huracanes en el Atlántico?,TemporalMes
+¿En qué mes se celebra el Día Internacional de la Paz?,TemporalMes
+¿Cuál es el mes de la celebración del Día del Trabajador en Rusia?,TemporalMes
+¿Qué mes es conocido como el Mes de Sensibilización sobre el Autismo?,TemporalMes
+¿En qué mes se celebra el Día del Amor y la Amistad en Colombia?,TemporalMes
+¿Cuál es el mes de la celebración del Día de la Tierra en algunos países de América Latina?,TemporalMes
+¿Qué mes marca el inicio del año nuevo en el calendario islámico?,TemporalMes
+¿En qué mes se celebra el Día de San Jorge en Inglaterra?,TemporalMes
+¿Cuál es el mes de la celebración del Día de la Mujer Indígena en muchos países de América Latina?,TemporalMes
+¿Qué mes es conocido como el Mes de la Concientización sobre el Cáncer de Próstata?,TemporalMes
+¿En qué mes se celebra el Día de la Bandera Nacional en México?,TemporalMes
+¿Cuál es el mes de la celebración del Día de los Enamorados en Brasil?,TemporalMes
+¿Qué mes marca el inicio de la temporada de esquí en los Alpes?,TemporalMes

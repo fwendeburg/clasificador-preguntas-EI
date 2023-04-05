@@ -1,61 +1,61 @@
-pregunta, clase
-¿Cuál es el propósito de este proyecto?, EntidadObjeto
-¿Cómo es el clima en esta región durante el verano?, EntidadObjeto
-¿Cuál es el costo de vida en esta ciudad en comparación con otras ciudades del país?, EntidadObjeto
-¿Cómo es el proceso de selección de personal en esta empresa?, EntidadObjeto
-¿Cuál es el significado de este símbolo en la cultura local?, EntidadObjeto
-¿Cómo es el sabor de esta comida típica de la región?, EntidadObjeto
-¿Cuál es el presupuesto necesario para realizar este proyecto?, EntidadObjeto
-¿Cómo es la cultura laboral en esta empresa?, EntidadObjeto
-¿Cuál es el objetivo principal de este programa de capacitación?, EntidadObjeto
-¿Cómo es el sistema educativo en este país?, EntidadObjeto
-¿Cuál es el precio de la vivienda en esta área metropolitana?, EntidadObjeto
-¿Cómo es el servicio al cliente en esta tienda?, EntidadObjeto
-¿Cuál es el enfoque principal de esta organización sin fines de lucro?, EntidadObjeto
-¿Cómo es el tráfico en esta ciudad durante las horas pico?, EntidadObjeto
-¿Cuál es el nivel de seguridad en esta área residencial?, EntidadObjeto
-¿Cómo es el proceso de producción de esta línea de productos?, EntidadObjeto
-¿Cuál es el horario de atención de esta clínica médica?, EntidadObjeto
-¿Cómo es la política de privacidad de esta empresa?, EntidadObjeto
-¿Cuál es el nivel de educación promedio en esta región?, EntidadObjeto
-¿Cómo es la infraestructura de transporte en esta ciudad?, EntidadObjeto
-¿Cuál es el objetivo de este experimento científico?, EntidadObjeto
-¿Cómo es la calidad del aire en esta zona industrial?, EntidadObjeto
-¿Cuál es el tamaño de la plantilla en esta empresa?, EntidadObjeto
-¿Cómo es la calidad del agua en esta comunidad?, EntidadObjeto
-¿Cuál es el perfil del consumidor objetivo de este producto?, EntidadObjeto
-¿Cómo es la tasa de criminalidad en esta ciudad?, EntidadObjeto
-¿Cuál es el plan de contingencia de esta empresa en caso de desastres naturales?, EntidadObjeto
-¿Cómo es el proceso de devolución de productos en esta tienda en línea?, EntidadObjeto
-¿Cuál es el presupuesto destinado a la investigación y desarrollo en esta empresa?, EntidadObjeto
-¿Cómo es el ambiente laboral en esta compañía?, EntidadObjeto
-¿Cuál es el plazo para solicitar una hipoteca en este banco?, EntidadObjeto
-¿Cómo es el sistema de votación en este país?, EntidadObjeto
-¿Cuál es el nivel de satisfacción de los clientes con este producto?, EntidadObjeto
-¿Cómo es la experiencia de usuario en este sitio web?, EntidadObjeto
-¿Cuál es el índice de desempleo en esta región?, EntidadObjeto
-¿Cómo es el proceso de elaboración de este vino?, EntidadObjeto
-¿Cuál es el presupuesto de marketing de esta empresa?, EntidadObjeto
-¿Cómo es la cultura culinaria de esta región?, EntidadObjeto
-¿Cuál es el objetivo de esta campaña publicitaria?, EntidadObjeto
-¿Cómo es el sistema de salud en este país?, EntidadObjeto
-¿Cuál es el grado de dificultad de este examen de ingreso?, EntidadObjeto
-¿Cómo es el proceso de selección de proveedores en esta empresa?, EntidadObjeto
-¿Cuál es el nivel de contaminación en esta ciudad?, EntidadObjeto
-¿Cómo es la política de igualdad de género en esta organización?, EntidadObjeto
-¿Cuál es el plan de expansión de esta franquicia?, EntidadObjeto
-¿Cómo es la calidad de los materiales utilizados en la fabricación de este producto?, EntidadObjeto
-¿Cuál es el enfoque pedagógico de esta escuela?, EntidadObjeto
-¿Cómo es el sistema de justicia en este país?, EntidadObjeto
-¿Cuál es el presupuesto para la investigación en esta universidad?, EntidadObjeto
-¿Cómo es el proceso de producción de energía en esta central eléctrica?, EntidadObjeto
-¿Cuál es el objetivo de esta investigación científica?, EntidadObjeto
-¿Cómo es el estilo arquitectónico de este edificio?, EntidadObjeto
-¿Cuál es el nivel de competencia en este mercado?, EntidadObjeto
-¿Cómo es la cultura deportiva en esta ciudad?, EntidadObjeto
-¿Cuál es el impacto ambiental de esta industria?, EntidadObjeto
-¿Cómo es la tasa de interés en este préstamo?, EntidadObjeto
-¿Cuál es el enfoque de este programa de capacitación para empleados?, EntidadObjeto
-¿Cómo es la política de seguridad de datos en esta empresa?, EntidadObjeto
-¿Cuál es el nivel de satisfacción de los empleados con esta organización?, EntidadObjeto
-¿Cómo es el proceso de fabricación de este medicamento?, EntidadObjeto
+pregunta,clase
+¿Cuál es el propósito de este proyecto?,EntidadObjeto
+¿Cómo es el clima en esta región durante el verano?,EntidadObjeto
+¿Cuál es el costo de vida en esta ciudad en comparación con otras ciudades del país?,EntidadObjeto
+¿Cómo es el proceso de selección de personal en esta empresa?,EntidadObjeto
+¿Cuál es el significado de este símbolo en la cultura local?,EntidadObjeto
+¿Cómo es el sabor de esta comida típica de la región?,EntidadObjeto
+¿Cuál es el presupuesto necesario para realizar este proyecto?,EntidadObjeto
+¿Cómo es la cultura laboral en esta empresa?,EntidadObjeto
+¿Cuál es el objetivo principal de este programa de capacitación?,EntidadObjeto
+¿Cómo es el sistema educativo en este país?,EntidadObjeto
+¿Cuál es el precio de la vivienda en esta área metropolitana?,EntidadObjeto
+¿Cómo es el servicio al cliente en esta tienda?,EntidadObjeto
+¿Cuál es el enfoque principal de esta organización sin fines de lucro?,EntidadObjeto
+¿Cómo es el tráfico en esta ciudad durante las horas pico?,EntidadObjeto
+¿Cuál es el nivel de seguridad en esta área residencial?,EntidadObjeto
+¿Cómo es el proceso de producción de esta línea de productos?,EntidadObjeto
+¿Cuál es el horario de atención de esta clínica médica?,EntidadObjeto
+¿Cómo es la política de privacidad de esta empresa?,EntidadObjeto
+¿Cuál es el nivel de educación promedio en esta región?,EntidadObjeto
+¿Cómo es la infraestructura de transporte en esta ciudad?,EntidadObjeto
+¿Cuál es el objetivo de este experimento científico?,EntidadObjeto
+¿Cómo es la calidad del aire en esta zona industrial?,EntidadObjeto
+¿Cuál es el tamaño de la plantilla en esta empresa?,EntidadObjeto
+¿Cómo es la calidad del agua en esta comunidad?,EntidadObjeto
+¿Cuál es el perfil del consumidor objetivo de este producto?,EntidadObjeto
+¿Cómo es la tasa de criminalidad en esta ciudad?,EntidadObjeto
+¿Cuál es el plan de contingencia de esta empresa en caso de desastres naturales?,EntidadObjeto
+¿Cómo es el proceso de devolución de productos en esta tienda en línea?,EntidadObjeto
+¿Cuál es el presupuesto destinado a la investigación y desarrollo en esta empresa?,EntidadObjeto
+¿Cómo es el ambiente laboral en esta compañía?,EntidadObjeto
+¿Cuál es el plazo para solicitar una hipoteca en este banco?,EntidadObjeto
+¿Cómo es el sistema de votación en este país?,EntidadObjeto
+¿Cuál es el nivel de satisfacción de los clientes con este producto?,EntidadObjeto
+¿Cómo es la experiencia de usuario en este sitio web?,EntidadObjeto
+¿Cuál es el índice de desempleo en esta región?,EntidadObjeto
+¿Cómo es el proceso de elaboración de este vino?,EntidadObjeto
+¿Cuál es el presupuesto de marketing de esta empresa?,EntidadObjeto
+¿Cómo es la cultura culinaria de esta región?,EntidadObjeto
+¿Cuál es el objetivo de esta campaña publicitaria?,EntidadObjeto
+¿Cómo es el sistema de salud en este país?,EntidadObjeto
+¿Cuál es el grado de dificultad de este examen de ingreso?,EntidadObjeto
+¿Cómo es el proceso de selección de proveedores en esta empresa?,EntidadObjeto
+¿Cuál es el nivel de contaminación en esta ciudad?,EntidadObjeto
+¿Cómo es la política de igualdad de género en esta organización?,EntidadObjeto
+¿Cuál es el plan de expansión de esta franquicia?,EntidadObjeto
+¿Cómo es la calidad de los materiales utilizados en la fabricación de este producto?,EntidadObjeto
+¿Cuál es el enfoque pedagógico de esta escuela?,EntidadObjeto
+¿Cómo es el sistema de justicia en este país?,EntidadObjeto
+¿Cuál es el presupuesto para la investigación en esta universidad?,EntidadObjeto
+¿Cómo es el proceso de producción de energía en esta central eléctrica?,EntidadObjeto
+¿Cuál es el objetivo de esta investigación científica?,EntidadObjeto
+¿Cómo es el estilo arquitectónico de este edificio?,EntidadObjeto
+¿Cuál es el nivel de competencia en este mercado?,EntidadObjeto
+¿Cómo es la cultura deportiva en esta ciudad?,EntidadObjeto
+¿Cuál es el impacto ambiental de esta industria?,EntidadObjeto
+¿Cómo es la tasa de interés en este préstamo?,EntidadObjeto
+¿Cuál es el enfoque de este programa de capacitación para empleados?,EntidadObjeto
+¿Cómo es la política de seguridad de datos en esta empresa?,EntidadObjeto
+¿Cuál es el nivel de satisfacción de los empleados con esta organización?,EntidadObjeto
+¿Cómo es el proceso de fabricación de este medicamento?,EntidadObjeto

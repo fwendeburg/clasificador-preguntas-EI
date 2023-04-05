@@ -1,51 +1,51 @@
-pregunta, clase
-¿A qué equivale una milla en kilómetros?, NumericoMedida
-¿Cuánto son 50 gramos en onzas?, NumericoMedida
-¿A qué equivale un galón en litros?, NumericoMedida
-¿Cuánto son 10 dólares en euros?, NumericoMedida
-¿A qué equivale un pie en centímetros?, NumericoMedida
-¿Cuánto son 2 libras en kilogramos?, NumericoMedida
-¿A qué equivale un metro cúbico en litros?, NumericoMedida
-¿Cuánto son 100 metros en pies?, NumericoMedida
-¿A qué equivale un kilogramo en libras?, NumericoMedida
-¿Cuánto son 500 gramos en libras?, NumericoMedida
-¿A qué equivale una onza en mililitros?, NumericoMedida
-¿Cuánto son 1.5 metros en pulgadas?, NumericoMedida
-¿A qué equivale un litro en galones?, NumericoMedida
-¿Cuánto son 20 grados Celsius en Fahrenheit?, NumericoMedida
-¿A qué equivale una yarda en metros?, NumericoMedida
-¿Cuánto son 5 kilómetros en millas?, NumericoMedida
-¿A qué equivale un centímetro cúbico en mililitros?, NumericoMedida
-¿Cuánto son 10 pies en metros?, NumericoMedida
-¿A qué equivale una libra por pulgada cuadrada en pascales?, NumericoMedida
-¿Cuánto son 100 gramos en onzas?, NumericoMedida
-¿A qué equivale un metro cuadrado en pies cuadrados?, NumericoMedida
-¿Cuánto son 3 litros en galones?, NumericoMedida
-¿A qué equivale un galón por minuto en litros por segundo?, NumericoMedida
-¿Cuánto son 30 grados Celsius en Kelvin?, NumericoMedida
-¿A qué equivale una pulgada en centímetros?, NumericoMedida
-¿A qué equivale un año luz en kilómetros?, NumericoMedida
-¿Cuánto son 2 metros cuadrados en pies cuadrados?, NumericoMedida
-¿A qué equivale un metro por segundo en millas por hora?, NumericoMedida
-¿Cuánto son 500 millas en kilómetros?, NumericoMedida
-¿A qué equivale un pie cúbico en litros?, NumericoMedida
-¿Cuánto son 2 litros en onzas?, NumericoMedida
-¿A qué equivale un grado en radianes?, NumericoMedida
-¿Cuánto son 100 grados Fahrenheit en grados Celsius?, NumericoMedida
-¿A qué equivale un terabyte en gigabytes?, NumericoMedida
-¿Cuánto son 5 pulgadas en centímetros?, NumericoMedida
-¿A qué equivale un pie por segundo en metros por segundo?, NumericoMedida
-¿Cuánto son 1.5 libras en kilogramos?, NumericoMedida
-¿A qué equivale un galón por hora en litros por minuto?, NumericoMedida
-¿Cuánto son 10 millas en kilómetros?, NumericoMedida
-¿A qué equivale un megabyte en kilobytes?, NumericoMedida
-¿Cuánto son 20 grados Celsius en grados Fahrenheit?, NumericoMedida
-¿A qué equivale una tonelada en libras?, NumericoMedida
-¿Cuánto son 3 pies en metros?, NumericoMedida
-¿A qué equivale un segundo luz en kilómetros?, NumericoMedida
-¿Cuánto son 250 gramos en onzas?, NumericoMedida
-¿A qué equivale un pascal en libras por pulgada cuadrada?, NumericoMedida
-¿Cuánto son 5 litros en galones?, NumericoMedida
-¿A qué equivale un hectárea en acres?, NumericoMedida
-¿Cuánto son 100 kilómetros por hora en millas por hora?, NumericoMedida
-¿A qué equivale un kilómetro cuadrado en millas cuadradas?, NumericoMedida
+pregunta,clase
+¿A qué equivale una milla en kilómetros?,NumericoMedida
+¿Cuánto son 50 gramos en onzas?,NumericoMedida
+¿A qué equivale un galón en litros?,NumericoMedida
+¿Cuánto son 10 dólares en euros?,NumericoMedida
+¿A qué equivale un pie en centímetros?,NumericoMedida
+¿Cuánto son 2 libras en kilogramos?,NumericoMedida
+¿A qué equivale un metro cúbico en litros?,NumericoMedida
+¿Cuánto son 100 metros en pies?,NumericoMedida
+¿A qué equivale un kilogramo en libras?,NumericoMedida
+¿Cuánto son 500 gramos en libras?,NumericoMedida
+¿A qué equivale una onza en mililitros?,NumericoMedida
+¿Cuánto son 1.5 metros en pulgadas?,NumericoMedida
+¿A qué equivale un litro en galones?,NumericoMedida
+¿Cuánto son 20 grados Celsius en Fahrenheit?,NumericoMedida
+¿A qué equivale una yarda en metros?,NumericoMedida
+¿Cuánto son 5 kilómetros en millas?,NumericoMedida
+¿A qué equivale un centímetro cúbico en mililitros?,NumericoMedida
+¿Cuánto son 10 pies en metros?,NumericoMedida
+¿A qué equivale una libra por pulgada cuadrada en pascales?,NumericoMedida
+¿Cuánto son 100 gramos en onzas?,NumericoMedida
+¿A qué equivale un metro cuadrado en pies cuadrados?,NumericoMedida
+¿Cuánto son 3 litros en galones?,NumericoMedida
+¿A qué equivale un galón por minuto en litros por segundo?,NumericoMedida
+¿Cuánto son 30 grados Celsius en Kelvin?,NumericoMedida
+¿A qué equivale una pulgada en centímetros?,NumericoMedida
+¿A qué equivale un año luz en kilómetros?,NumericoMedida
+¿Cuánto son 2 metros cuadrados en pies cuadrados?,NumericoMedida
+¿A qué equivale un metro por segundo en millas por hora?,NumericoMedida
+¿Cuánto son 500 millas en kilómetros?,NumericoMedida
+¿A qué equivale un pie cúbico en litros?,NumericoMedida
+¿Cuánto son 2 litros en onzas?,NumericoMedida
+¿A qué equivale un grado en radianes?,NumericoMedida
+¿Cuánto son 100 grados Fahrenheit en grados Celsius?,NumericoMedida
+¿A qué equivale un terabyte en gigabytes?,NumericoMedida
+¿Cuánto son 5 pulgadas en centímetros?,NumericoMedida
+¿A qué equivale un pie por segundo en metros por segundo?,NumericoMedida
+¿Cuánto son 1.5 libras en kilogramos?,NumericoMedida
+¿A qué equivale un galón por hora en litros por minuto?,NumericoMedida
+¿Cuánto son 10 millas en kilómetros?,NumericoMedida
+¿A qué equivale un megabyte en kilobytes?,NumericoMedida
+¿Cuánto son 20 grados Celsius en grados Fahrenheit?,NumericoMedida
+¿A qué equivale una tonelada en libras?,NumericoMedida
+¿Cuánto son 3 pies en metros?,NumericoMedida
+¿A qué equivale un segundo luz en kilómetros?,NumericoMedida
+¿Cuánto son 250 gramos en onzas?,NumericoMedida
+¿A qué equivale un pascal en libras por pulgada cuadrada?,NumericoMedida
+¿Cuánto son 5 litros en galones?,NumericoMedida
+¿A qué equivale un hectárea en acres?,NumericoMedida
+¿Cuánto son 100 kilómetros por hora en millas por hora?,NumericoMedida
+¿A qué equivale un kilómetro cuadrado en millas cuadradas?,NumericoMedida

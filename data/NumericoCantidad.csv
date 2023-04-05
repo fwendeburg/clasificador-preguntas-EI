@@ -1,56 +1,56 @@
-pregunta, clase
-¿Cuántos kilómetros hay en una milla?, NumericoCantidad
-¿Qué cantidad de agua debe beber una persona al día?, NumericoCantidad
-¿Qué número de planetas hay en nuestro sistema solar?, NumericoCantidad
-¿Cuánto aumenta la temperatura en verano en comparación con el invierno?, NumericoCantidad
-¿Cuántos días hay en un año bisiesto?, NumericoCantidad
-¿Qué cantidad de proteína necesitamos consumir al día?, NumericoCantidad
-¿Qué número de huesos tiene el cuerpo humano?, NumericoCantidad
-¿Cuánto disminuye la visibilidad en un día de niebla?, NumericoCantidad
-¿Cuántos continentes hay en el mundo?, NumericoCantidad
-¿Qué cantidad de tiempo tarda la Tierra en dar una vuelta completa alrededor del sol?, NumericoCantidad
-¿Qué número de idiomas se hablan en el mundo?, NumericoCantidad
-¿Cuánto aumenta la población mundial cada año?, NumericoCantidad
-¿Cuántos días debe descansar el cuerpo después de hacer ejercicio intenso?, NumericoCantidad
-¿Qué cantidad de tiempo tarda la luz en llegar desde el Sol a la Tierra?, NumericoCantidad
-¿Qué número de huesos tiene el cráneo humano?, NumericoCantidad
-¿Cuánto disminuye la temperatura en la cima de una montaña?, NumericoCantidad
-¿Cuántos dientes tiene un adulto promedio?, NumericoCantidad
-¿Qué cantidad de agua necesita un árbol para crecer?, NumericoCantidad
-¿Qué número de especies de animales se encuentran en peligro de extinción?, NumericoCantidad
-¿Cuánto aumenta el tráfico en las horas pico?, NumericoCantidad
-¿Cuántos países hay en América del Sur?, NumericoCantidad
-¿Qué cantidad de energía necesita un automóvil para recorrer una milla?, NumericoCantidad
-¿Qué número de personas vive en el área metropolitana de Nueva York?, NumericoCantidad
-¿Cuánto disminuye la concentración de oxígeno en la altura?, NumericoCantidad
-¿Cuántos elementos químicos conocidos hay en la tabla periódica?, NumericoCantidad
-¿Qué cantidad de veces se debe lavar la ropa de cama cada semana?, NumericoCantidad
-¿Qué número de personas viven en la Tierra en este momento?, NumericoCantidad
-¿Cuánto aumenta la velocidad del viento durante un huracán?, NumericoCantidad
-¿Cuántos idiomas se hablan en España?, NumericoCantidad
-¿Qué cantidad de veces late el corazón humano en un día?, NumericoCantidad
-¿Cuántos litros de sangre tiene el cuerpo humano?, NumericoCantidad
-¿Qué cantidad de calorías se queman durante una hora de caminata?, NumericoCantidad
-¿Qué número de satélites artificiales orbitan alrededor de la Tierra?, NumericoCantidad
-¿Cuánto aumenta el precio de la gasolina cada año?, NumericoCantidad
-¿Cuántos días tarda la luna en dar una vuelta completa alrededor de la Tierra?, NumericoCantidad
-¿Qué cantidad de tiempo debe pasar después de comer antes de hacer ejercicio?, NumericoCantidad
-¿Qué número de países forman parte de la Unión Europea?, NumericoCantidad
-¿Cuánto disminuye la duración del día en invierno en comparación con el verano?, NumericoCantidad
-¿Cuántos músculos hay en el cuerpo humano?, NumericoCantidad
-¿Qué cantidad de agua se necesita para producir una taza de café?, NumericoCantidad
-¿Qué número de especies de árboles se encuentran en peligro de extinción?, NumericoCantidad
-¿Cuánto aumenta la cantidad de basura generada durante las vacaciones?, NumericoCantidad
-¿Cuántos días de vacaciones tienen los trabajadores en tu país?, NumericoCantidad
-¿Qué cantidad de personas usa las redes sociales en todo el mundo?, NumericoCantidad
-¿Qué número de países se consideran miembros de la OTAN?, NumericoCantidad
-¿Cuánto disminuye la capacidad pulmonar con la edad?, NumericoCantidad
-¿Cuántos libros se publican cada año en el mundo?, NumericoCantidad
-¿Qué cantidad de energía consume un hogar promedio al mes?, NumericoCantidad
-¿Qué número de personas viven en China?, NumericoCantidad
-¿Cuánto aumenta la tasa de natalidad en los países en desarrollo?, NumericoCantidad
-¿Cuántos años de vida tiene un gato promedio?, NumericoCantidad
-¿Qué cantidad de estudiantes asisten a la universidad en tu país?, NumericoCantidad
-¿Qué número de especies de animales han sido descubiertas en la selva amazónica?, NumericoCantidad
-¿Cuánto disminuye la eficiencia de un panel solar con el tiempo?, NumericoCantidad
-¿Cuántos metros cuadrados de bosques se pierden cada día en el mundo?, NumericoCantidad
+pregunta,clase
+¿Cuántos kilómetros hay en una milla?,NumericoCantidad
+¿Qué cantidad de agua debe beber una persona al día?,NumericoCantidad
+¿Qué número de planetas hay en nuestro sistema solar?,NumericoCantidad
+¿Cuánto aumenta la temperatura en verano en comparación con el invierno?,NumericoCantidad
+¿Cuántos días hay en un año bisiesto?,NumericoCantidad
+¿Qué cantidad de proteína necesitamos consumir al día?,NumericoCantidad
+¿Qué número de huesos tiene el cuerpo humano?,NumericoCantidad
+¿Cuánto disminuye la visibilidad en un día de niebla?,NumericoCantidad
+¿Cuántos continentes hay en el mundo?,NumericoCantidad
+¿Qué cantidad de tiempo tarda la Tierra en dar una vuelta completa alrededor del sol?,NumericoCantidad
+¿Qué número de idiomas se hablan en el mundo?,NumericoCantidad
+¿Cuánto aumenta la población mundial cada año?,NumericoCantidad
+¿Cuántos días debe descansar el cuerpo después de hacer ejercicio intenso?,NumericoCantidad
+¿Qué cantidad de tiempo tarda la luz en llegar desde el Sol a la Tierra?,NumericoCantidad
+¿Qué número de huesos tiene el cráneo humano?,NumericoCantidad
+¿Cuánto disminuye la temperatura en la cima de una montaña?,NumericoCantidad
+¿Cuántos dientes tiene un adulto promedio?,NumericoCantidad
+¿Qué cantidad de agua necesita un árbol para crecer?,NumericoCantidad
+¿Qué número de especies de animales se encuentran en peligro de extinción?,NumericoCantidad
+¿Cuánto aumenta el tráfico en las horas pico?,NumericoCantidad
+¿Cuántos países hay en América del Sur?,NumericoCantidad
+¿Qué cantidad de energía necesita un automóvil para recorrer una milla?,NumericoCantidad
+¿Qué número de personas vive en el área metropolitana de Nueva York?,NumericoCantidad
+¿Cuánto disminuye la concentración de oxígeno en la altura?,NumericoCantidad
+¿Cuántos elementos químicos conocidos hay en la tabla periódica?,NumericoCantidad
+¿Qué cantidad de veces se debe lavar la ropa de cama cada semana?,NumericoCantidad
+¿Qué número de personas viven en la Tierra en este momento?,NumericoCantidad
+¿Cuánto aumenta la velocidad del viento durante un huracán?,NumericoCantidad
+¿Cuántos idiomas se hablan en España?,NumericoCantidad
+¿Qué cantidad de veces late el corazón humano en un día?,NumericoCantidad
+¿Cuántos litros de sangre tiene el cuerpo humano?,NumericoCantidad
+¿Qué cantidad de calorías se queman durante una hora de caminata?,NumericoCantidad
+¿Qué número de satélites artificiales orbitan alrededor de la Tierra?,NumericoCantidad
+¿Cuánto aumenta el precio de la gasolina cada año?,NumericoCantidad
+¿Cuántos días tarda la luna en dar una vuelta completa alrededor de la Tierra?,NumericoCantidad
+¿Qué cantidad de tiempo debe pasar después de comer antes de hacer ejercicio?,NumericoCantidad
+¿Qué número de países forman parte de la Unión Europea?,NumericoCantidad
+¿Cuánto disminuye la duración del día en invierno en comparación con el verano?,NumericoCantidad
+¿Cuántos músculos hay en el cuerpo humano?,NumericoCantidad
+¿Qué cantidad de agua se necesita para producir una taza de café?,NumericoCantidad
+¿Qué número de especies de árboles se encuentran en peligro de extinción?,NumericoCantidad
+¿Cuánto aumenta la cantidad de basura generada durante las vacaciones?,NumericoCantidad
+¿Cuántos días de vacaciones tienen los trabajadores en tu país?,NumericoCantidad
+¿Qué cantidad de personas usa las redes sociales en todo el mundo?,NumericoCantidad
+¿Qué número de países se consideran miembros de la OTAN?,NumericoCantidad
+¿Cuánto disminuye la capacidad pulmonar con la edad?,NumericoCantidad
+¿Cuántos libros se publican cada año en el mundo?,NumericoCantidad
+¿Qué cantidad de energía consume un hogar promedio al mes?,NumericoCantidad
+¿Qué número de personas viven en China?,NumericoCantidad
+¿Cuánto aumenta la tasa de natalidad en los países en desarrollo?,NumericoCantidad
+¿Cuántos años de vida tiene un gato promedio?,NumericoCantidad
+¿Qué cantidad de estudiantes asisten a la universidad en tu país?,NumericoCantidad
+¿Qué número de especies de animales han sido descubiertas en la selva amazónica?,NumericoCantidad
+¿Cuánto disminuye la eficiencia de un panel solar con el tiempo?,NumericoCantidad
+¿Cuántos metros cuadrados de bosques se pierden cada día en el mundo?,NumericoCantidad
