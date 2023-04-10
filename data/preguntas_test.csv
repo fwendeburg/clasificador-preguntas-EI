@@ -1,0 +1,20 @@
+pregunta,clase
+¿Qué año le fue concedido el premio Nobel a Thomas Mann?,TemporalAño
+¿Cuánto aumenta la población mundial cada año?,NumericoPorcentaje
+¿Cuál es el nombre de pila del juez Borsellino?,EntidadObjeto
+¿Cuántos miembros de la escolta murieron en el atentado contra el juez Falcone?,NumericoCantidad
+¿Qué cargo detenta Ariel Sharon?,EntidadObjeto
+¿Qué año comenzó la Intifada?,TemporalAño
+¿Qué empresa de automóviles produce el “Escarabajo”?,EntidadObjeto
+¿Dónde tiene lugar el Motorshow?,EntidadLugar
+¿Cómo murió Jimi Hendrix?,EntidadEvento
+¿Qué es el Mossad?,Definicion
+¿De qué nacionalidad eran los petroleros que causaron la catástrofe ecológica cerca de Trinidad y Tobago en 1979?,EntidadLugarPais
+¿De qué está recubierto el continente antártico?,EntidadObjeto
+¿Qué es lo que causa el agujero de ozono?,EntidadObjeto
+¿Qué es UNICEF?,Definicion
+¿Qué firma está acusada de explotación laboral infantil?,EntidadObjeto
+¿Dónde fue fundada Greenpeace?,EntidadLugar
+¿Cómo se transmite el virus del ébola?,Definicion
+¿En qué día cae el Día del Año Nuevo Chino?,TemporalFecha
+¿Cuándo renunció Nixon?,TemporalFecha
